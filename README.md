@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# My Color Generator made with React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is an app built to help you generate RGB colors by moving slides of RED, GREEN, and BLUE with a large window to show what the colors look like.
+
+## Major Skill
+
+1. State management
+2. Components
+3. Props Drilling
+
+
 
 ## Available Scripts
 
